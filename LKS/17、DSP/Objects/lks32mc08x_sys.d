@@ -1,0 +1,10 @@
+.\objects\lks32mc08x_sys.o: LKS32MC08x_Periph_Driver\Source\lks32mc08x_sys.c
+.\objects\lks32mc08x_sys.o: .\LKS32MC08x_Periph_Driver\Include\lks32mc08x_sys.h
+.\objects\lks32mc08x_sys.o: .\LKS32MC08x_Periph_Driver\Include\lks32mc08x.h
+.\objects\lks32mc08x_sys.o: D:\Keil_V5\ARM\PACK\Linko\LKS08x\1.0.7\Device\Include\basic.h
+.\objects\lks32mc08x_sys.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\lks32mc08x_sys.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\lks32mc08x_sys.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\lks32mc08x_sys.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lks32mc08x_sys.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lks32mc08x_sys.o: .\LKS32MC08x_Periph_Driver\Include\lks32mc08x_gpio.h
